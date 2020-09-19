@@ -1,0 +1,16 @@
+PODS:
+  - AltSwiftUI (1.2.0)
+
+DEPENDENCIES:
+  - AltSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - AltSwiftUI
+
+SPEC CHECKSUMS:
+  AltSwiftUI: a608345d83dc61a9f0172ddd1b2c8a268b3d97ea
+
+PODFILE CHECKSUM: 11fd39bc6e1ee6359ef0367efdd52f1085bc9106
+
+COCOAPODS: 1.8.4
